@@ -17,9 +17,3 @@ function twoSum(arr: number[], target: number): number[] {
     }
     return [];
 }
-
-const arr = [2, 9, 10, 4, 15];
-const target = 12;
-
-const res = twoSum(arr, target);
-console.log(res.join(" "));
