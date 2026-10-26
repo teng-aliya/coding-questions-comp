@@ -31,9 +31,12 @@ Given an array **prices[]** of non-negative integers, representing the prices of
 
 ## Languages
 
-1. JavaScript 
-2. TypeScript
-3. Python
+1. JavaScript (26/10/2026)
+2. TypeScript (26/10/2026)
+3. Python (26/10/2026)
 4. Go
 
 ## Understanding of question
+At first glance, it's easy to get stuck on the fact that the questions requests you to find a kind of difference between each pair. I've realised that it's asking for the minimum and maximum possible number in the array. It also requires you to seek the "profit" which essentially just means the difference between the current profit and minimum profit. The sentence can be confusing when read quickly.
+
+As long as you single out the important portions and goals, it should be easier to understand.
