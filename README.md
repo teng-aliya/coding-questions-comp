@@ -19,4 +19,4 @@ The full question will be copied into its markdown own file (notes). I will try 
 ## GeeksforGeeks 
 
 **[Source](https://www.geeksforgeeks.org/blogs/most-asked-75-coding-problems/)**
-(Questions done: 3/75)
+(Questions done: 2/75)
